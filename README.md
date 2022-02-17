@@ -1,5 +1,5 @@
-# first_python_netflix
-Investigation Netflix movies and guest stars in The Office
+# First Python Project: Netflix movies
+Investigation Netflix movies
 
 This is my first ever project using Python. It is part of Datacamp Professional Certificate: Data Scientist with Python 
 
